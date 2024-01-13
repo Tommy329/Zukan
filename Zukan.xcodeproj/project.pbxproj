@@ -16,6 +16,7 @@
 		17B1810C2B4FE76A000AAD65 /* kirin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 17B181092B4FE76A000AAD65 /* kirin.jpg */; };
 		17B1810D2B4FE76A000AAD65 /* kangaroo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 17B1810A2B4FE76A000AAD65 /* kangaroo.jpg */; };
 		17B1810E2B4FE76A000AAD65 /* penguin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 17B1810B2B4FE76A000AAD65 /* penguin.jpg */; };
+		17B181102B501010000AAD65 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B1810F2B501010000AAD65 /* Animal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		17B181092B4FE76A000AAD65 /* kirin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kirin.jpg; sourceTree = "<group>"; };
 		17B1810A2B4FE76A000AAD65 /* kangaroo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kangaroo.jpg; sourceTree = "<group>"; };
 		17B1810B2B4FE76A000AAD65 /* penguin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = penguin.jpg; sourceTree = "<group>"; };
+		17B1810F2B501010000AAD65 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				17B180FB2B4FE6BA000AAD65 /* Assets.xcassets */,
 				17B180FD2B4FE6BA000AAD65 /* LaunchScreen.storyboard */,
 				17B181002B4FE6BA000AAD65 /* Info.plist */,
+				17B1810F2B501010000AAD65 /* Animal.swift */,
 				17B181082B4FE76A000AAD65 /* images */,
 			);
 			path = Zukan;
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				17B180F72B4FE6B8000AAD65 /* ViewController.swift in Sources */,
+				17B181102B501010000AAD65 /* Animal.swift in Sources */,
 				17B180F32B4FE6B8000AAD65 /* AppDelegate.swift in Sources */,
 				17B180F52B4FE6B8000AAD65 /* SceneDelegate.swift in Sources */,
 			);
